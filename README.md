@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Martin, from Argentina and I'm currently studyng CS at National University of La Plata.
+I'm Martin, from Argentina, and I'm currently studyng CS at National University of La Plata.
 
 <!--
 **diazmartini/diazmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
