@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Martin, from Argentina and I'm currently studyng CS at National University of La Plata.
 
 <!--
 **diazmartini/diazmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning backend development with Golang and Gin
-- 🔭 I’m currently working on https://github.com/diazmartini/apuntesunlp
+- 🌱 I’m learning backend development with Golang and Gin
+- 🔭 I’m working on https://github.com/diazmartini/apuntesunlp
