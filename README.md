@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning backend development with Golang and Gin
+- 🔭 I’m currently working on https://github.com/diazmartini/apuntesunlp
