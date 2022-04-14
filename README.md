@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m learning backend development with Golang and Gin.
-- 🔭 I’m working on https://github.com/diazmartini/apuntesunlp.
+- 🔭 I’m working on https://github.com/diazmartinx/go-webapp.
