@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m learning backend development with Golang and Gin.
-- 🔭 I’m working on https://github.com/diazmartinx/go-webapp.
+- 🌱 I’m learning backend development in NodeJS with NestJS.
