@@ -1,17 +1,18 @@
-### Hi there 👋
-I'm Martin, from Argentina :argentina:. I'm currently studyng CS at La Plata National University.
 
-<!--
-**diazmartini/diazmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Greetings,
 
-Here are some ideas to get you started:
+I am Martin, a dedicated software engineer hailing from Argentina. Currently, I am pursuing a Computer Science degree at La Plata National University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional focus revolves around software development, with a commitment to creating impactful applications that serve a purpose. Notable projects in my portfolio include:
+
+- [list2email.com](https://list2email.com) - Simplifying list-to-email conversions.
+- [dolarbluehoy.ar](https://dolarbluehoy.ar) - Providing real-time updates on unofficial exchange rates in Argentina.
+- [kolitop.com](http://kolitop.com) - Statictis website about a player versus player game.
+
+My technology stack comprises cutting-edge tools and frameworks, including:
+
+- TypeScript for robust and statically-typed code.
+- SvelteKit for crafting efficient and interactive user interfaces.
+- Tailwind CSS for creating elegant and responsive designs.
+- Firebase/Supabase for building powerful and scalable backend solutions.
+
