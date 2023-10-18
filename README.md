@@ -5,6 +5,7 @@ I am Martin, a dedicated software engineer hailing from Argentina. Currently, I 
 
 My professional focus revolves around software development, with a commitment to creating impactful applications that serve a purpose. Notable projects in my portfolio include:
 
+- [mojibay.com](https://mojibay.com) - Searchable Emoji Directory.
 - [list2email.com](https://list2email.com) - Simplifying list-to-email conversions.
 - [dolarbluehoy.ar](https://dolarbluehoy.ar) - Providing real-time updates on unofficial exchange rates in Argentina.
 - [kolitop.com](http://kolitop.com) - Statictis website about a player versus player game.
