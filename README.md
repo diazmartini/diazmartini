@@ -8,7 +8,7 @@ My professional focus revolves around software development, with a commitment to
 - [mojibay.com](https://mojibay.com) - Searchable Emoji Directory.
 - [list2email.com](https://list2email.com) - Simplifying list-to-email conversions.
 - [dolarbluehoy.ar](https://dolarbluehoy.ar) - Providing real-time updates on unofficial exchange rates in Argentina.
-- [kolitop.com](http://kolitop.com) - Statictis website about a player versus player game.
+- [kolitop.com](https://kolitop.pythonanywhere.com/) - Statictis website about a player versus player game.
 
 My technology stack comprises cutting-edge tools and frameworks, including:
 
