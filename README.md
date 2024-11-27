@@ -16,6 +16,5 @@ My technology stack comprises cutting-edge tools and frameworks, including:
 - TypeScript for robust and statically-typed code.
 - SvelteKit for crafting efficient and interactive user interfaces.
 - Tailwind CSS for creating elegant and responsive designs.
-- Firebase/Supabase for building powerful and scalable backend solutions.
 - Postgres and Sqlite (cant go wrong with these)
 
